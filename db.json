@@ -1,0 +1,72 @@
+{
+  "profesores": [
+    {
+      "nombre": "Skared",
+      "apellido": "Sanchez",
+      "materias": [
+        {
+          "nombre": "Biologia"
+        },
+        {
+          "nombre": "Matematicas"
+        },
+        {
+          "nombre": "Espaniol"
+        }
+      ],
+      "id": "7618"
+    },
+    {
+      "0": {
+        "nombre": "Raymundo",
+        "apellido": "Sanchez Actualizado",
+        "materias": [
+          {
+            "nombre": "Qumica"
+          },
+          {
+            "nombre": "Mate"
+          },
+          {
+            "nombre": "Espaniol Avanzado"
+          }
+        ]
+      },
+      "id": "bc1a"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Skared",
+      "apellido": "Sanchez",
+      "promedio": 7.4,
+      "id": "ea8c"
+    },
+    {
+      "nombre": "Tochito",
+      "apellido": "Sanchez",
+      "promedio": 9.4,
+      "id": "96a8"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJs dessde Cero",
+      "duracion": 8,
+      "dificultad": "intermedio",
+      "id": "dbb7"
+    },
+    {
+      "nombre": "ReactJs dessde Cero",
+      "duracion": 3,
+      "dificultad": "dificil",
+      "id": "7a5b"
+    },
+    {
+      "nombre": "HTML",
+      "duracion": 8,
+      "dificultad": "facil",
+      "id": "28fd"
+    }
+  ]
+}
